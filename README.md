@@ -1,5 +1,9 @@
 ### Hi there 👋
+My name is Damian and I'm a Node.js backend developer with a passion for building APIs and designing tests for applications. In my current job, I've gained valuable experience in these areas and have even had the opportunity to work with ESP8266 and Arduino IDE to connect hardware with Node.js backend.
 
+Staying up-to-date with the latest technologies is important to me and I'm always on the lookout for ways to improve my skills and knowledge. I take pride in delivering high-quality and scalable solutions that meet business needs.
+
+Thanks for taking the time to read my brief bio, and I look forward to connecting with you!
 <!--
 **Plesniok/Plesniok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
