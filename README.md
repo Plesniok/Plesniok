@@ -1,9 +1,7 @@
 ### Hi there 👋
-My name is Damian and I'm a Full-stack backend developer with a passion for building APIs. In my current job, I've gained valuable experience in these areas and have even had the opportunity to work with ESP8266 and Arduino IDE to connect hardware with Node.js backend, design and develop REST API`s based on JAVA Spring Boot, develop and maintain Flutter web application.
+I am a software developer delivering projects across various sectors, with a strong focus on building and enhancing backend solutions. I also work on frontend development using technologies such as React, Tauri, and Flutter. On the backend side, my experience includes Python (FastAPI), Node.js (Express and its ecosystem), and Java (Spring).
 
-Staying up-to-date with the latest technologies is important to me and I'm always on the lookout for ways to improve my skills and knowledge. I take pride in delivering high-quality and scalable solutions that meet business needs.
-
-Thanks for taking the time to read my brief bio, and I look forward to connecting with you!
+I concentrate on automation, digitalization, and optimization of business processes, consistently seeking opportunities to improve operational efficiency. I place great emphasis on architecture, code quality, readability, and performance. I am open to both short-term engagements and long-term collaborations.
 <!--
 **Plesniok/Plesniok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
